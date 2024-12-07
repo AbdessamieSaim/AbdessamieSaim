@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @AbdessamieSaim
 - 👀 I’m interested in cross platform develepoment,and Web developement.
-- 🌱 I’m currently learning node.js.
-- 💞️ I’m looking to collaborate on creating a great apps or web sites.
+- I'm trying to learn Machin Learning and create some models that may help you in your life.
+- 💞️ I’m looking to collaborate on creating a great apps.
 - 📫 You can reache me on instagram : @abdessamie_sa or email:abdessamiesaim@gmailcom
 
 <!---
