@@ -1,50 +1,59 @@
 # Hi there! 👋 I'm Abdessamie, a Semi-Senior Flutter Developer
 
+![Flutter Developer Banner](https://github.com/AbdessamieSaim/AbdessamieSaim/assets/65425334/5c8a3b1e-5a8f-4d5a-9e8e-6f6b3f7d8a5a)
+
 ## 🚀 About Me
-I'm a passionate Flutter developer with experience in building cross-platform mobile applications. My expertise includes:
-- Flutter & Dart programming
-- State management (BLoC, GetX)
-- Firebase integration (Authentication, Firestore, Cloud Functions)
-- Android native development
-- Web development
-- Python and Java programming
+I'm a passionate Flutter developer with 2+ years of experience building production-ready cross-platform applications. I specialize in creating pixel-perfect UIs with clean architecture and optimal performance.
 
-I love creating beautiful, performant apps with great user experiences and clean architecture.
+**My expertise includes:**
+- 📱 Flutter & Dart development
+- 🔥 State management (BLoC, GetX, Provider)
+- ☁️ Firebase suite (Auth, Firestore, Cloud Functions, Storage)
+- 🛠️ Android native development (Java)
+- 🌐 Web development (HTML/CSS/JavaScript)
+- 🐍 Python scripting & automation
 
-## 🔧 Technologies & Tools
-![](https://img.shields.io/badge/OS-Linux-informational?style=flat&logo=linux&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-Android_Studio-informational?style=flat&logo=android-studio&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Editor-VS_Code-informational?style=flat&logo=visual-studio-code&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Flutter-informational?style=flat&logo=flutter&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Dart-informational?style=flat&logo=dart&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Code-Java-informational?style=flat&logo=java&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Firebase-informational?style=flat&logo=firebase&logoColor=white&color=2bbc8a)
-![](https://img.shields.io/badge/Tools-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a)
+## 🔧 Tech Stack
 
-## 🌱 I'm currently learning
-- Advanced Flutter animations
-- CI/CD for Flutter apps
-- Backend development with Node.js
-- Machine Learning with Python
+### Mobile Development
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+### Backend & Databases
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+
+### Tools & IDEs
+![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+## 🌱 Currently Learning
+- 🚀 Advanced Flutter animations with Rive
+- 🔄 CI/CD pipelines for Flutter
+- 🧠 Machine Learning fundamentals
+- ⚡ Performance optimization techniques
 
 
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/AbdessamieSaim)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/AbdessamieSaim)
+[![Abdessamie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamieSaim&show_icons=true&theme=radical&hide_border=true)](https://github.com/AbdessamieSaim)
 
-## 📫 How to reach me
-- LinkedIn: MyLinkedIn
-- Instagram: @sa.abdessamie
-- Email: abdessamiesaim@gmail.com
-- Portfolio: myPortfolio
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamieSaim&layout=compact&theme=radical&hide_border=true)](https://github.com/AbdessamieSaim)
 
-## ⚡ Fun fact
-I love working under pressure
+![GitHub Streak](https://streak-stats.demolab.com?user=AbdessamieSaim&theme=radical&hide_border=true)
+
+## 📫 Let's Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/yourprofile)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sa.abdessamie)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdessamiesaim@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/yourhandle)
+
+## ⚡ Fun Facts
+
+- ☕ Can't start coding without my morning coffee
 
 ---
 
 ⭐️ From [AbdessamieSaim](https://github.com/AbdessamieSaim)
-
----
