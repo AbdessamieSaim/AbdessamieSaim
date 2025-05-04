@@ -1,6 +1,5 @@
 # Hi there! 👋 I'm Abdessamie, a Semi-Senior Flutter Developer
 
-![Flutter Developer Banner](https://github.com/AbdessamieSaim/AbdessamieSaim/assets/65425334/5c8a3b1e-5a8f-4d5a-9e8e-6f6b3f7d8a5a)
 
 ## 🚀 About Me
 I'm a passionate Flutter developer with 2+ years of experience building production-ready cross-platform applications. I specialize in creating pixel-perfect UIs with clean architecture and optimal performance.
