@@ -30,15 +30,15 @@ I love creating beautiful, performant apps with great user experiences and clean
 
 
 ## 📊 GitHub Stats
-[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/yourusername)
+[![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=radical)](https://github.com/AbdessamieSaim)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/yourusername)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical)](https://github.com/AbdessamieSaim)
 
 ## 📫 How to reach me
-- LinkedIn: [Your LinkedIn Profile]
-- Twitter: [@YourHandle]
-- Email: your.email@example.com
-- Portfolio: [Your Portfolio Website]
+- LinkedIn: MyLinkedIn
+- Instagram: @sa.abdessamie
+- Email: abdessamiesaim@gmail.com
+- Portfolio: myPortfolio
 
 ## ⚡ Fun fact
 I love working under pressure
