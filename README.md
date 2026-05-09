@@ -10,7 +10,6 @@ Beyond mobile development, I also work with **Big Data, AI, and IoT**, creating 
 - 🔥 State management (BLoC, GetX, Provider)  
 - ☁️ Firebase suite (Auth, Firestore, Cloud Functions, Storage)  
 - 🛠️ Android native development (Java)  
-- 🌐 Web development (HTML/CSS/JavaScript)  
 - 🐍 Python scripting & automation  
 - 💾 Big Data (Apache Spark) & MongoDB  
 - 🤖 Deep Learning (CNNs, facial recognition, sensor data analysis)  
