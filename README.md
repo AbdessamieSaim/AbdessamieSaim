@@ -1,131 +1,241 @@
-# Hi there! 👋 I'm Abdessamie – Flutter Developer & AI Enthusiast
+# 👋 Hi, I'm Abdessamie Saim
+
+### Flutter Developer · AI Enthusiast · Software Engineer
+
+<p align="left">
+  <a href="https://github.com/AbdessamieSaim">
+    <img src="https://komarev.com/ghpvc/?username=AbdessamieSaim&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile views"/>
+  </a>
+</p>
+
+I'm a **Flutter Developer with 2+ years of experience** building production-ready cross-platform applications.
+
+My primary focus is **Flutter & Dart**, with a strong interest in **clean architecture, scalable systems, responsive UI, and application performance**.
+
+I'm also expanding my backend expertise with **Node.js, NestJS, PostgreSQL, and Prisma**, while exploring **Artificial Intelligence, Computer Vision, Big Data, and IoT**.
+
+---
 
 ## 🚀 About Me
-I'm a **Flutter Developer with 2+ years of experience** building production-ready cross-platform applications. I specialize in **clean architecture, pixel-perfect UIs, responsive design, and high-performance apps**.
 
-My main focus is **Flutter & Dart development**, while I'm also expanding my backend expertise with **Node.js, NestJS, PostgreSQL, and Prisma**.
-
-Beyond mobile development, I work with **Artificial Intelligence, Big Data, and IoT**, building intelligent and data-driven solutions.
-
-**My expertise includes:**  
-- 📱 Flutter & Dart development  
-- 🏗️ Clean architecture & scalable application design  
-- 🔥 State management (BLoC, GetX, Provider)  
-- ☁️ Firebase (Auth, Firestore, Cloud Functions, Storage)  
-- 🌐 REST APIs & backend integration  
-- ⚙️ Node.js & NestJS  
-- 🐘 PostgreSQL & Prisma  
-- 🛠️ Android native development (Java)  
-- 🐍 Python scripting & automation  
-- 💾 Big Data (Apache Spark) & MongoDB  
-- 🤖 Machine Learning & Deep Learning  
-- 👁️ Computer Vision & facial recognition  
-- 📡 IoT & intelligent systems  
+* 📱 **Flutter & Dart** — Cross-platform mobile development
+* 🏗️ **Clean Architecture** — Scalable and maintainable applications
+* 🎨 **UI/UX** — Responsive and pixel-perfect interfaces
+* ⚡ **State Management** — BLoC, GetX, Provider
+* 🔥 **Backend Services** — Firebase, Supabase & REST APIs
+* ⚙️ **Backend Development** — Node.js & NestJS
+* 🗄️ **Databases** — PostgreSQL, Prisma & MongoDB
+* 🤖 **Artificial Intelligence** — Machine Learning & Deep Learning
+* 👁️ **Computer Vision** — Image processing & object detection
+* 📊 **Big Data** — Apache Spark
+* 📡 **IoT** — Connected and intelligent systems
+* 🐍 **Python** — Automation, scripting & AI development
 
 ---
 
-## 🔧 Tech Stack
+# 🛠️ Tech Stack
 
-### Mobile Development
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+### 📱 Mobile Development
 
-### Flutter & Backend
-![BLoC](https://img.shields.io/badge/BLoC-00A8E8?style=for-the-badge)
-![GetX](https://img.shields.io/badge/GetX-8A2BE2?style=for-the-badge)
-![Provider](https://img.shields.io/badge/Provider-42A5F5?style=for-the-badge)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=for-the-badge&logo=prisma&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=flutter,dart,android,java" />
+</p>
 
-### AI, Data & IoT
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Apache Spark](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=apache-spark&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+### ⚡ Flutter & Backend
 
-### Tools & IDEs
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=firebase,supabase,nodejs,nestjs,typescript,postgres,prisma" />
+</p>
+
+### 🤖 AI, Data & Computer Vision
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,mongodb" />
+</p>
+
+### 🔧 Tools & Infrastructure
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,docker,linux,vscode,androidstudio" />
+</p>
 
 ---
 
-## 📱 Featured Projects
+# 📱 Featured Projects
 
-### 🩺 Esseha – Healthcare Mobile Application
-A production-oriented healthcare platform connecting patients and doctors.
+## 🩺 Esseha
 
-**Tech:** Flutter · Dart · GetX/BLoC · Supabase · Firebase · REST APIs
+### Healthcare Mobile Application
 
-- 👨‍⚕️ Patient and doctor roles
-- 🔎 Doctor search and price filtering
-- 💬 Chat request system
-- 💳 Paid consultation sessions
-- ✅ Doctor verification
-- 🌍 Multilingual interface
+A production-oriented healthcare platform designed to connect **patients and doctors** through a modern mobile experience.
 
-### 🦴 Orthozone – Healthcare Mobile Application
-A mobile application developed for a real client, focused on orthopedic healthcare services.
+**Tech Stack**
 
-**Tech:** Flutter · Dart · Firebase · REST APIs
+`Flutter` · `Dart` · `GetX` · `BLoC` · `Firebase` · `Supabase` · `REST APIs`
 
-### ♿ ZED – Smart Autonomous Wheelchair
-A smart motorized wheelchair project combining **Flutter, robotics, IoT, and AI**.
+**Key Features**
 
-**Tech:** Flutter · Raspberry Pi · ROS · Python · MQTT · Computer Vision
-
-- 🎮 Manual wheelchair control
-- 🤖 Autonomous point-to-point navigation
-- 🚧 Obstacle detection and avoidance
-- 📱 Mobile controller application
-- 📡 Real-time telemetry
-- 🧠 Intelligent navigation
+* 👨‍⚕️ Patient and doctor roles
+* 🔎 Doctor discovery and price filtering
+* 💬 Consultation request and chat system
+* 💳 Paid consultation sessions
+* ✅ Doctor verification
+* 🌍 Multilingual interface
 
 ---
 
-## 🌱 Currently Learning
-- 🚀 Advanced NestJS backend development
-- 🗄️ PostgreSQL & database architecture
-- 🔐 Authentication, authorization & API security
-- ⚡ Redis & WebSockets
-- 📡 MQTT & real-time systems
-- 🐳 Docker & deployment
-- 🎨 Advanced Flutter animations & performance optimization
-- 🤖 Advanced Deep Learning & AI optimization
+## 🦴 Orthozone
+
+### Healthcare Mobile Application
+
+A mobile application developed for a **real-world client**, focused on providing digital healthcare services in the orthopedic domain.
+
+**Tech Stack**
+
+`Flutter` · `Dart` · `Firebase` · `REST APIs`
+
+**Highlights**
+
+* 📱 Cross-platform mobile application
+* 👨‍⚕️ Healthcare-focused workflows
+* 🔥 Firebase integration
+* 🌐 REST API integration
+* 🎨 Responsive user interface
 
 ---
 
-## 📊 GitHub Stats
-[![Abdessamie's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AbdessamieSaim&show_icons=true&theme=radical&hide_border=true)](https://github.com/AbdessamieSaim)  
+## ♿ ZED
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamieSaim&layout=compact&theme=radical&hide_border=true)](https://github.com/AbdessamieSaim)  
+### Smart Autonomous Wheelchair
 
-![GitHub Streak](https://streak-stats.demolab.com?user=AbdessamieSaim&theme=radical&hide_border=true)
+A smart mobility project combining **Flutter, Robotics, IoT, Computer Vision, and AI** to create an autonomous wheelchair capable of navigating indoor environments.
+
+**Tech Stack**
+
+`Flutter` · `Raspberry Pi` · `Python` · `MQTT` · `Computer Vision` · `IoT`
+
+**Key Features**
+
+* 🎮 Manual wheelchair control
+* 🤖 Autonomous point-to-point navigation
+* 🚧 Real-time obstacle detection
+* 🧭 Intelligent path planning
+* 📱 Mobile control application
+* 📡 Real-time telemetry
+* 🔋 Battery monitoring
 
 ---
 
-## 📫 Let's Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdessamie-saim)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/sa.abdessamie)  
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:abdessamiesaim@gmail.com)  
+# 📚 Currently Learning
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
+
+* NestJS
+* PostgreSQL
+* Prisma
+* Authentication & Authorization
+* Redis
+* WebSockets
+* MQTT
+* Testing
+* Docker & Deployment
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🤖 AI & Mobile
+
+* Deep Learning
+* Computer Vision
+* Model Optimization
+* AI-powered Applications
+* Advanced Flutter Architecture
+* Flutter Performance
+* Advanced Animations
+
+</td>
+</tr>
+</table>
 
 ---
 
-## ⚡ Fun Facts
-- ☕ Can't start coding without my morning coffee
-- 📱 Flutter is my main development stack
-- 🤖 Interested in the intersection of AI, IoT, and mobile technology
+# 📊 GitHub Statistics
+
+<p align="center">
+  <img
+    src="https://github-readme-stats.vercel.app/api?username=AbdessamieSaim&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github"
+    height="180"
+  />
+  <img
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbdessamieSaim&layout=compact&theme=github_dark&hide_border=true"
+    height="180"
+  />
+</p>
+
+<p align="center">
+  <img
+    src="https://streak-stats.demolab.com?user=AbdessamieSaim&theme=github-dark-blue&hide_border=true"
+    width="70%"
+  />
+</p>
 
 ---
 
-⭐️ From [AbdessamieSaim](https://github.com/AbdessamieSaim)
+# 🤝 Let's Connect
+
+<p align="left">
+
+<a href="https://www.linkedin.com/in/abdessamie-saim">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn"
+  />
+</a>
+
+<a href="https://instagram.com/sa.abdessamie">
+  <img
+    src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"
+    alt="Instagram"
+  />
+</a>
+
+<a href="mailto:abdessamiesaim@gmail.com">
+  <img
+    src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"
+    alt="Email"
+  />
+</a>
+
+</p>
+
+---
+
+# ☕ A Little More About Me
+
+* ☕ Coffee + code = productive mornings
+* 📱 Flutter is my primary development stack
+* 🤖 Interested in the intersection of **AI, IoT, and mobile technology**
+* 🧠 Always learning, building, and experimenting
+* 🚀 Turning ideas into real-world applications
+
+---
+
+<p align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=120&section=footer"
+    width="100%"
+  />
+</p>
+
+<p align="center">
+  <i>Building intelligent software, one project at a time.</i>
+</p>
+
+<p align="center">
+  ⭐ <a href="https://github.com/AbdessamieSaim">AbdessamieSaim</a>
+</p>
