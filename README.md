@@ -134,12 +134,8 @@ A smart mobility project combining **Flutter, Robotics, IoT, Computer Vision, an
 
 ### ⚙️ Backend
 
-* NestJS
-* PostgreSQL
-* Prisma
 * Authentication & Authorization
 * Redis
-* WebSockets
 * MQTT
 * Testing
 * Docker & Deployment
